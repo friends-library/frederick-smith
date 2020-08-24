@@ -1,11 +1,13 @@
 [#to-parents, short="To Those Who Have the Care of Youth"]
 == To the Parents and Others who Have the Care of Youth in the Society of Friends
 
+[.chapter-subtitle--blurb]
 By Frederick Smith
 
+[.salutation]
 Dear Friends,
 
-THE education of the children of our Society has
+The education of the children of our Society has
 been the subject of my most serious thoughts,
 and I have often and earnestly desired it might be taken up by
 some person whose qualifications would have enabled him to do it
@@ -116,15 +118,21 @@ children`'s blood being required at their hands.
 I believe that little more need here be added to parents,
 than the following excellent advices, extracted from the Epistles of the Yearly Meeting.
 
-"`We do with earnestness recommend to all such parents as have
+[.embedded-content-document.epistle]
+--
+
+We do with earnestness recommend to all such parents as have
 experienced the gracious dealings of the Lord with their own souls,
 to take all proper opportunities of instilling into the minds of their children,
 just sentiments respecting the vanity and emptiness of fading and transitory enjoyments;
 and to direct them to seek after that solid peace and serenity of mind,
 which attends the sincere practice of true religion and virtue,
-and which only can afford any durable, solid satisfaction.`"--Epistle, 1745.
+and which only can afford any durable, solid satisfaction.--Epistle, 1745.
 
-"`And you parents,
+[.small-break]
+'''
+
+And you parents,
 be solicitous to discharge your important and awful duty with scrupulous attention.
 It is often too late to warn the youthful mind of danger,
 when your own negligence or indulgence has permitted
@@ -149,7 +157,9 @@ Let it be your own daily care to endeavour after closer communion with him,
 and to walk in meek submission to his commands:
 so may you gain over the minds of the youth providentially placed under your care,
 that ascendancy which arises from the united effects of sound judgment, truest love,
-and a good example.`"--Epistle, 1800.
+and a good example.--Epistle, 1800.
+
+--
 
 Now as to those who undertake the tuition of the children of others,
 they have a most serious trust committed to them:
@@ -189,7 +199,7 @@ On the contrary, young persons who have been neglected,
 and have never known any religious instruction, either from parents or tutors,
 seem in a most deplorable state;
 and will have good reason to reflect upon those whose first business ought to have been,
-to instil the principles of true Christianity into their minds.
+to instill the principles of true Christianity into their minds.
 
 O that those who engage in the education of the youth among us,
 were firm in all their proceedings respecting them; and would, as much as in them lies,
@@ -258,8 +268,11 @@ far beyond any earthly advantage they may reap by their outward profession;
 while the sincerest gratitude and love, both from the parents and the children,
 cannot but be excited towards them.
 
+[.signed-section-closing]
 I am your affectionate friend,
 
+[.signed-section-signature]
 Frederick Smith.
 
+[.signed-section-context-close]
 London, 13th of First Month 1806

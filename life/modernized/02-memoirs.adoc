@@ -391,10 +391,16 @@ so that she became reduced, to all appearance, to the last stage of a consumptio
 I was at this time very much distressed; and under the pressure of my afflictions,
 I wrote the following letter to +++[+++my friend at Walworth]:--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To James Maddocks, Walworth.
 
+[.signed-section-context-open]
 Haymarket, February 10th, 1784.
 
+[.salutation]
 Dear Friend,
 
 I think I never, in the whole course of my life,
@@ -461,12 +467,21 @@ If you can spare time to write me a few lines, I shall take it as a favour.
 I would call on you, but think it would give uneasiness at home.
 With kindest love to you and yours, I remain your sincere friend,
 
+[.signed-section-signature]
 Frederick Smith.
 
+--
+
+[.offset]
 In reply to the foregoing, I received the following truly acceptable letter:--
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Walworth, Second Month 12th, 1784.
 
+[.salutation]
 Dear Friend,
 
 Your very affecting letter of the 10th instant is received.
@@ -491,9 +506,15 @@ to prevent the disagreeableness of what will be the consequence in court.
 If I can be of any service in any shape in my power, it will be a great pleasure to me.
 The concern in the Haymarket I leave at present;-the
 frowns of your relations are not much to be feared;
-you are superior +++[+++to them]--I am your sincere friend,
+you are superior +++[+++to them],
 
+[.signed-section-closing]
+I am your sincere friend,
+
+[.signed-section-signature]
 James Maddocks
+
+--
 
 Previous to my going to Aylesbury, where the assizes were held,
 my dear child was restored to us, which I considered a great favour.
@@ -609,9 +630,15 @@ This proving ineffectual, I thought it right to address the Secretary,
 that he might use his interest with them.
 I accordingly sent him the following letter --
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 General Post Office, March 17th, 1784.
 
+[.salutation]
 Sir,
+
 It is with much regret I find myself under the necessity of giving you trouble;
 but the circumstance of my having been obliged to attend the Assizes at Aylesbury,
 and there practically to avow those sentiments which I conscientiously
@@ -661,7 +688,10 @@ and receiving an annual stipend from the Office,
 they will be pleased to grant me the like indulgence.
 I am, with respect, your obliged friend,
 
+[.signed-section-signature]
 Frederick Smith.
+
+--
 
 In a few days I was ordered to attend the Board;
 and though the Postmasters-general appeared more mild than they had done,
@@ -717,7 +747,10 @@ and in this I felt experimentally that I was not forsaken
 by Him for whom I suffered such severe trials and conflicts.
 Under the pressure of them I wrote as follows:--
 
-"`My brethren are put far from me, and my acquaintance are verily estranged from me.
+[.embedded-content-document.paper]
+--
+
+My brethren are put far from me, and my acquaintance are verily estranged from me.
 My kinsfolk have failed, and my familiar friends have forgotten me.
 They that dwell in mine house count me for a stranger; I am an alien in their sight.
 My breath is strange to my wife,
@@ -725,7 +758,9 @@ though I entreated for the children`'s sake of my own body.
 All my friends`' abhorred me; and they whom I loved are turned against me.
 Lover and friend you have put far from me, and my acquaintance into darkness.
 But I know that my Redeemer lives,
-and that he shall stand at the latter day upon the earth.`"
+and that he shall stand at the latter day upon the earth.
+
+--
 
 After an absence of several weeks my wife returned to me; and I can truly say,
 I received her joyfully.
@@ -928,6 +963,9 @@ not a stone of the former building was to remain; all was to be razed,
 that the wise Master-Builder might erect his temple in the heart,
 Jesus Christ`' being the chief-corner-stone.
 
+[.small-break]
+'''
+
 +++[+++The writer,
 after stating that himself and wife had in their
 prosperity enjoyed many outward com-- forts;
@@ -935,6 +973,10 @@ that now in their reduced condition,
 duty and necessity combined to induce them to make sacrifices
 which by some would have been considered costly;
 and that among other things, a sideboard of plate was disposed of, proceeds:--]
+
+[.small-break]
+'''
+
 To be thus reduced was no small trial to flesh and blood, but the plate was called for,
 and it was given up.
 In our straitened circumstances it would have been folly to purchase it;
@@ -961,10 +1003,18 @@ While in this humble situation of mind, a letter, per post, was delivered to me:
 it was from a person of property who had married a relative of my wife`'s,
 and was to this effect:
 
-"`Sir --I have made my will and have left your wife £+++___+++;
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+Sir,
+
+I have made my will and have left your wife £+++___+++;
 but believing it may be of more use to you now, than it may be at my death,
 you are at liberty to draw upon me at sight.
-I am, Sir, your humble servant,`" etc.
+I am, Sir, your humble servant, etc.
+
+--
 
 The person lived at Newcastle-upon-Tyne; his wife was dead.
 I had never seen him nor corresponded with him,
@@ -1184,10 +1234,15 @@ to sympathize with the afflicted.
 With my mind thus tenderly exercised on behalf of a near relation,
 (the daughter of an uncle,
 a clergyman,) with whom I had formerly been on terms of great friendship,
-I wrote the following letter to her --
+I wrote the following letter to her:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Haymarket, Ninth Month 4th, 1786.
 
+[.salutation]
 Dear Cousin,
 
 With that tenderness and sympathy, which I can with truth say,
@@ -1248,9 +1303,14 @@ I therefore conclude,
 sincerely desiring that the Almighty may look with
 tenderness and compassionate regard upon you,
 and that you may be preserved in his love in this season of severe distress.
+
+[.signed-section-closing]
 Your affectionate cousin,
 
+[.signed-section-signature]
 Frederick Smith.
+
+--
 
 The path which I had to tread seemed different from
 that into which many others had been introduced;
@@ -1403,8 +1463,14 @@ I record this,
 to show the necessity of ever attending to the tender feelings of the mind,
 and of taking care not to throw them hastily by, without giving them due consideration.
 
+[.small-break]
+'''
+
 Although the following account may not be considered as a part of my Memoirs,
-yet as it has afforded me instruction, I shall here narrate it.--
+yet as it has afforded me instruction, I shall here narrate it:
+
+[.small-break]
+'''
 
 J+++.+++ C. was a person, who in the early part of his life resided at Bristol,
 but afterwards near London.
@@ -1471,6 +1537,9 @@ and though never extravagant in his own expenses, he became reduced in his circu
 and was now literally living on the bounty of others.
 He was taken ill when nearly a hundred years old,
 and during his illness showed no marks of religious sensibility.
+
+[.small-break]
+'''
 
 In the year 1789, I was tried various ways: I was much tempted,
 experienced much spiritual desertion,
@@ -1668,6 +1737,10 @@ kind friends were watching over me for good.
 Some of their letters conveyed deep instruction in the needful time:
 I transcribe extracts from two of them as follows:--
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Needham, Sixth Month 28th, 1790,
 
 I have often thought of you since I was in your company in London,
@@ -1680,15 +1753,21 @@ so as to enable us to make a right distinction between thing and thing.
 It is my situation frequently to be much sunk,
 so afraid at times that I shall not hold out to the end, etc., etc.
 
+[.signed-section-closing]
 Your affectionate friend,
 
+[.signed-section-signature]
 W+++.+++ C.
 
+[.signed-section-context-close]
 Philadelphia, Eighth Month, 1790.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Beloved Friend,
 
 On First day last in the evening, I reached my habitation from a journey into Virginia,
@@ -1741,9 +1820,13 @@ wisdom and instruction than volumes of books,
 and dipping into mysterious writings, that may and does tend more to perplex than edify.
 It will be acceptable to hear from you, etc.,
 
+[.signed-section-closing]
 Your loving friend,
 
+[.signed-section-signature]
 John Pemberton
+
+--
 
 // lint-disable invalid-characters
 When John Pemberton was in England, I showed him the way to Jacob Duché`'s house.
@@ -1979,20 +2062,22 @@ he was much pleased with it; said he should like to learn it,
 and if I would read it again, he would repeat after me.
 The first stanza seemed to affect him much.
 
-"`The Lord will happiness divine
-
+[verse]
+____
+The Lord will happiness divine
 On contrite hearts bestow;
-
 Then tell me gracious God, is mine
-
-A contrite heart or no.`"
+A contrite heart or no.
+____
 
 When he came to the two last lines, he burst into tears;
 and with a degree of earnestness he cried out,
 
-"`Then tell me gracious God,
-
-is mine a contrite heart or no.`"
+[verse]
+____
+Then tell me gracious God,
+is mine a contrite heart or no.
+____
 
 and this he did every time he repeated these lines.
 It was a great relief to my mind to observe the gradual
@@ -2140,7 +2225,7 @@ I lent him several books wherein the existence of God was treated of;
 but all seemed unavailing.
 He made notes on a Bible I lent him, almost through the whole book,
 in opposition to its precepts and doctrines.
-Towards the close of his infidelity, he requested I would lend him Newton`'s Principia;
+Towards the close of his infidelity, he requested I would lend him Newton`'s [.book-title]#Principia#;
 which I refused, in the belief, as I told him, that he had wandered far in the dark,
 by seeking for that without, which was only to be discovered in the secret of the heart;
 I therefore advised him to keep his mind quiet, adding,
@@ -2252,11 +2337,17 @@ he requested to be supplied with some of the writings of Friends,
 feeling more satisfaction in the perusal of them than any other books.
 He attended Friends`' meetings regularly till his departure.
 
+[.small-break]
+'''
+
 +++[+++This last narrative concludes the Memoirs of Frederick Smith, as written by himself.
 About the year 1806, he removed from the Haymarket, Westminster, to Croydon,
 where he continued to reside till his decease.--The following brief sketch of his character,
 and account of his last illness and death,
 are extracted from the Testimony of Kingston Monthly Meeting.]
+
+[.embedded-content-document.testimony]
+--
 
 He did not travel much in the work of the ministry, although it appears,
 that from the year 1790 to 1818, with the approbation of his friends,
@@ -2311,3 +2402,5 @@ He died the 22nd of Fourth Month, 1823, at Croydon,
 and was interred there on the 27th of the same,
 previous to a very large and solemn meeting; aged sixty-six,
 a minister about thirty-four years.
+
+--
