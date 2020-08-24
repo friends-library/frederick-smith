@@ -5,7 +5,7 @@ ____
 
 == Introduction.
 
-THE following Memoirs are extracted from manuscripts found in Frederick Smith`'s hand-writing,
+The following Memoirs are extracted from manuscripts found in Frederick Smith`'s hand-writing,
 after his decease.
 They were printed in The Friend, (a Monthly Journal,) in the year 1845;
 but as they are considered to be of too interesting and instructive a
@@ -46,6 +46,8 @@ as those which occurred in the earlier part of his life,
 yet doubtless the Memoirs might have been continued instructively,
 as regards his further religious experience and service.
 
+[.signed-section-signature]
 T+++.+++ C.
 
+[.signed-section-context-close]
 Kingston, 4th Month 1848

@@ -1,8 +1,10 @@
 [#to-children, short="To the Youth of the Society of Friends"]
 == A Letter to the Children and Youth of the Society of Friends
 
+[.chapter-subtitle--blurb]
 by Frederick Smith
 
+[.salutation]
 Dear Young Friends,
 
 I regard as some of the most pleasing circumstances of my life,
@@ -168,34 +170,54 @@ he was brought as a lamb to the slaughter, and as a sheep before his shearers is
 so he opened not his mouth.`"
 Read the whole of the fifty-third chapter of Isaiah.
 
-The following show the completion of the foregoing declarations;
-and that salvation and redemption come through Jesus Christ.
+[.small-break]
+'''
 
-"`For unto you is born this day, in the city of David, a Saviour,
-which is Christ the Lord.`"--Luke 2:11.
+[quote.scripture, , Luke. 2:11]
+____
+For unto you is born this day, in the city of David, a Saviour,
+which is Christ the Lord.
+____
 
-"`For God so loved the world, that he gave his only begotten Son,
-that whosoever believeth in him should not perish,
-but have everlasting life.`"--John 3:16.
+[quote.scripture, , John 3:16]
+____
+For God so loved the world, that he gave his only begotten Son,
+that whosoever believes in him should not perish,
+but have everlasting life.
+____
 
-"`I am the door.
+[quote.scripture, , John 10:9]
+____
+I am the door.
 By me if any man enter in, he shall be saved, and shall go in and out,
-and find pasture.`"--John 10:9.
+and find pasture.
+____
 
-"`Neither is there salvation in any other;
+[quote.scripture, , Act. 4:12]
+____
+Neither is there salvation in any other;
 for there is none other name under heaven given among men,
-whereby we must be saved.`"--Acts 4:12.
+whereby we must be saved.
+____
 
-"`Wherefore, he is able also to save them to the uttermost that come unto God by him,
-seeing he ever liveth to make intercession for them.`"--Heb. 7:25.
+[quote.scripture, , Heb. 7:25]
+____
+Wherefore, he is able also to save them to the uttermost that come unto God by him,
+seeing he ever liveth to make intercession for them.
+____
 
-"`But of him are ye in Christ Jesus, who of God is made unto us wisdom,
-and righteousness, and sanctification, and redemption.`"--1 Cor. 1:30.
+[quote.scripture, , 1Co. 1:30]
+____
+But of him are ye in Christ Jesus, who of God is made unto us wisdom,
+and righteousness, and sanctification, and redemption.
+____
 
+[quote.scripture, , 1Pe. 2:24]
+____
 "`Who his own self bare our sins in his own body on the tree,
 that we being dead to sins should live unto righteousness:
-by whose stripes ye were healed.`"
---1 Peter 2:24.
+by whose stripes ye were healed.
+____
 
 These few passages of Scripture will shew you the foundation of the Christian religion;
 and if you are willing to attend to the divine law in your hearts,
@@ -262,4 +284,8 @@ and in the end you will be received by him into heaven,
 there to enjoy unutterable happiness forever.
 I am your affectionate Friend,
 
-Frederick Smith,London, 12th Month 1805
+[.signed-section-signature]
+Frederick Smith,
+
+[.signed-section-context-close]
+London, 12th Month 1805
