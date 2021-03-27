@@ -1,4 +1,4 @@
-[#to-children, short="To the Youth of the Society of Friends"]
+[short="To the Youth of the Society of Friends"]
 == A Letter to the Children and Youth of the Society of Friends
 
 [.chapter-subtitle--blurb]
